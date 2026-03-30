@@ -1,18 +1,20 @@
 # Budget Tracking Web Application
 
 ## Description
-This project helps users track income and expenses efficiently.
+This is a simple budget tracking web application that helps users manage their income and expenses efficiently.
 
 ## Features
 - Add Income
 - Add Expense
 - Calculate Balance
-- User Friendly Interface
+- Simple and User Friendly Interface
 
 ## Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-## Author
-Gowri Medagam
+## Future Improvements
+- Add Local Storage
+- Add Monthly Reports
+- Improve UI Design
